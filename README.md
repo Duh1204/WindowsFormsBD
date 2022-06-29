@@ -5,7 +5,6 @@ Funcionamento:
 O programa usa 4 tabelas de banco de dados, Cliente, Produto, Item de Venda e Venda.
 O usuário precisa de um cliente, um produto para registrar um item de venda, ele pode adicionar quantos itens de venda ele desejar, quando ele estiver satisfeito ele pode criar uma venda que irá ter o id do cliente o valor total de todos os itens de venda.
 
-Interface:
 
 Interface de venda:
 
