@@ -1,0 +1,13 @@
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\bin\Debug\WindowsFormsDB.exe.config
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\bin\Debug\WindowsFormsDB.exe
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\bin\Debug\WindowsFormsDB.pdb
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\obj\Debug\WindowsFormsDB.csproj.AssemblyReference.cache
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\obj\Debug\WindowsFormsDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\obj\Debug\WindowsFormsDB.ClienteFrm.resources
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\obj\Debug\WindowsFormsDB.Form1.resources
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\obj\Debug\WindowsFormsDB.ProdutoFrm.resources
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\obj\Debug\WindowsFormsDB.Properties.Resources.resources
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\obj\Debug\WindowsFormsDB.csproj.GenerateResource.cache
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\obj\Debug\WindowsFormsDB.csproj.CoreCompileInputs.cache
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\obj\Debug\WindowsFormsDB.exe
+C:\Users\edos0\source\repos\WindowsFormsDB\WindowsFormsDB\obj\Debug\WindowsFormsDB.pdb
