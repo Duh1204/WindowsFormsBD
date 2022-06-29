@@ -24,4 +24,5 @@ Adicionando vários itens de venda usando um cliente e um produto:
 ![4dbitemvenda](https://user-images.githubusercontent.com/96741532/176332119-2091d7e5-6bf4-4c32-9eaf-5f121af5e7ed.png)
 
 Venda adicionada ao banco de dados:
-![Uploading dbselectfromitemvenda.png…]()
+
+![dbselectfromvenda](https://user-images.githubusercontent.com/96741532/176332994-bb784d21-bff5-4888-b637-b6d44ffd214c.png)
